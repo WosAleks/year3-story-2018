@@ -8,3 +8,5 @@ Version 1.1 - Added words to Chapter1.html
 Version 1.2 - Created first paragraph
 <br>
 Version 1.3 - Finished Chapter 1 and created Chapter2.html
+<br>
+Version 1.4 - Created Chapter3.html and finished chapter 2
