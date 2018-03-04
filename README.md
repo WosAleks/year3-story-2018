@@ -7,3 +7,4 @@ for this repo, to use as a starting point for your story
 .. matt smith ...
 
 Version 1 - Created Chapter1.html
+Version 1.1 - Added words to Chapter1.html
