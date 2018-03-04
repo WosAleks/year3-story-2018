@@ -9,4 +9,6 @@ Version 1.2 - Created first paragraph
 <br>
 Version 1.3 - Finished Chapter 1 and created Chapter2.html
 <br>
-Version 1.4 - Created Chapter3.html and finished chapter 2
+Version 1.4 - Created Chapter3.html and finished Chapter 2
+<br>
+Version 1.5 - Finished Chapter 3
