@@ -1,5 +1,10 @@
 # year3-story-2018
  Aleksandra Wos B00088919 Git Story
+ <br>
+ Git Pages Link
+ <br>
+ https://wosaleks.github.io/year3-story-2018/
+ <br>
  
  [Chapter 1](Chapter1.html)
  <br>
