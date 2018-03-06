@@ -25,3 +25,6 @@ Version 1.3 - Finished Chapter 1 and created Chapter2.html
 Version 1.4 - Created Chapter3.html and finished Chapter 2
 <br>
 Version 1.5 - Finished Chapter 3
+<br>
+Version 1.6 - Added description
+<br>
