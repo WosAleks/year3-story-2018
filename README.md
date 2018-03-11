@@ -30,3 +30,4 @@ Version 1.6 - Added description
 <br>
 Version 1.7 - Changed Chapter 1
 <br>
+Version 1.8 - Edited Chapter 2
