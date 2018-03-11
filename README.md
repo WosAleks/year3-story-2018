@@ -28,3 +28,5 @@ Version 1.5 - Finished Chapter 3
 <br>
 Version 1.6 - Added description
 <br>
+Version 1.7 - Changed Chapter 1
+<br>
