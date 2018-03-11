@@ -31,3 +31,5 @@ Version 1.6 - Added description
 Version 1.7 - Changed Chapter 1
 <br>
 Version 1.8 - Edited Chapter 2
+<br>
+Version 1.9 - Edited Chapter 3
