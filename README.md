@@ -33,3 +33,5 @@ Version 1.7 - Changed Chapter 1
 Version 1.8 - Edited Chapter 2
 <br>
 Version 1.9 - Edited Chapter 3
+<br>
+Version 2.0 - Added chapter links and released
