@@ -39,3 +39,5 @@ Version 2.0 - Added chapter links and released
 Version 2.1 - Renamed chapter 2 and changed background colours
 <br>
 Version 2.2 - Changed title colour
+<br>
+Version 2.3 - Added Alternate Ending
