@@ -37,3 +37,5 @@ Version 1.9 - Edited Chapter 3
 Version 2.0 - Added chapter links and released
 <br>
 Version 2.1 - Renamed chapter 2 and changed background colours
+<br>
+Version 2.2 - Changed title colour
