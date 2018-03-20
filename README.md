@@ -12,6 +12,8 @@
  <br>
   [Chapter 3](Chapter3.html)
  <br>
+ [Alternate Ending](AlternateEnding.html)
+ <br>
  
 
 Version 1 - Created Chapter1.html
@@ -41,3 +43,5 @@ Version 2.1 - Renamed chapter 2 and changed background colours
 Version 2.2 - Changed title colour
 <br>
 Version 2.3 - Added Alternate Ending
+<br>
+Version 2.4 - Added Alternate Ending link
